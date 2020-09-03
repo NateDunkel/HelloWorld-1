@@ -1,5 +1,5 @@
 **Name:** TJ Doviak
 
-**Assignment Name:** Assignment 1B: Enhance Your Hello World page
+**Assignment Name:** Assignment 2a: GitHub
 
-**Date:** August 27 2020
+**Date:** September 3 2020
